@@ -44,7 +44,8 @@ def start(section_tag, section_class, new_section_content):
 
     print(f"Fetched URLs: {len(fetched_filepaths)}")
 
-    replace_header_in_file(starting_filepath, new_html, section_tag, section_class)
+    # replace_header_in_file(starting_filepath, new_html, section_tag, section_class)
+    # return
     for path in fetched_filepaths:
         try:
             print(f"Processing path {path}")
