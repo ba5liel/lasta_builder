@@ -247,7 +247,7 @@ Our service portfolio covers an entire software development life cycle and meets
 
 <div class="header-yellow-buttons" data-track-source="Header menu">
 <div class="header-yellow-button">
-<a href="{BASE_URL}/contact-us.html" class="header-yellow-button-label js-track-click" data-track-element="item">
+<a href="{BASE_URL}/about/company/contact-us-discuss-your-needs.html" class="header-yellow-button-label js-track-click" data-track-element="item">
 Inquire Now
 </a>
 </div>
@@ -411,7 +411,7 @@ Inquire Now
                      header-menu-mobile-item
                      header-yellow-button                                                               js-track-click
                  " data-track-element="item" data-track-text="Inquire Now">
-<a href="{BASE_URL}/contact-us.html" class="header-menu-mobile-item-label header-yellow-button-label" itemprop="url">
+<a href="{BASE_URL}/about/company/contact-us-discuss-your-needs.html" class="header-menu-mobile-item-label header-yellow-button-label" itemprop="url">
 <span itemprop="name">Inquire Now</span>
 </a>
 </div>
@@ -674,7 +674,7 @@ Our service portfolio covers an entire software development life cycle and meets
 
 <div class="header-yellow-buttons" data-track-source="Header menu">
 <div class="header-yellow-button">
-<a href="{BASE_URL}/contact-us.html" class="header-yellow-button-label js-track-click" data-track-element="item">
+<a href="{BASE_URL}/about/company/contact-us-discuss-your-needs.html" class="header-yellow-button-label js-track-click" data-track-element="item">
 Inquire Now
 </a>
 </div>
@@ -838,7 +838,7 @@ Inquire Now
                      header-menu-mobile-item
                      header-yellow-button                                                               js-track-click
                  " data-track-element="item" data-track-text="Inquire Now">
-<a href="{BASE_URL}/contact-us.html" class="header-menu-mobile-item-label header-yellow-button-label" itemprop="url">
+<a href="{BASE_URL}/about/company/contact-us-discuss-your-needs.html" class="header-menu-mobile-item-label header-yellow-button-label" itemprop="url">
 <span itemprop="name">Inquire Now</span>
 </a>
 </div>

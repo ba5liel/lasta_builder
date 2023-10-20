@@ -12,6 +12,7 @@ def get_html_links_from_section(filepath, section_tag, section_class):
         return []
    
     links = [BASEPATH + a['href'] for a in header.find_all('a', href=True) if a['href'].endswith('.html')]
+    links.append(BASEPATH  + "/about/company/contact-us-discuss-your-needs.html")
     return links
 
 def replace_header_in_file(filepath, new_html, section_tag, section_class):
@@ -41,7 +42,7 @@ def start(section_tag, section_class, new_section_content):
     new_html = new_section_content
 
     fetched_filepaths = get_html_links_from_section(starting_filepath, 'header', 'header')
-
+    fetched_filepaths.append(f"{BASEPATH}about/company/contact-us-discuss-your-needs.html")
     print(f"Fetched URLs: {len(fetched_filepaths)}")
 
     # replace_header_in_file(starting_filepath, new_html, section_tag, section_class)
