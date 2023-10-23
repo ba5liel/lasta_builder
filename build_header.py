@@ -1,8 +1,8 @@
 import core
 
 # BASE_URL="."
-BASE_URL="http://localhost/lasta.digital/lasta.digital"
-# BASE_URL="https://lasta.digital"
+# BASE_URL="http://localhost/lasta.digital/lasta.digital"
+BASE_URL="https://lasta.digital"
 
 HEADER = f""" <header class="header header-transparent" data-track-source="Header">
         <div class="container header-container" data-nosnippet>
